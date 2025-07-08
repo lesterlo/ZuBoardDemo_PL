@@ -4,3 +4,6 @@ vivado_gen/*
 # But Keep the following items
 !vivado_gen/.gitkeep
 !vivado_gen/*.xpr
+
+#ignore export directory
+export/
